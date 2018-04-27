@@ -7,3 +7,10 @@ or the `Tao of Programming`__.
 
 .. __: http://thecodelesscode.com/
 .. __: http://www.mit.edu/~xela/tao.html
+
+Current Koans
+-------------
+
+* (``ruby/koans``) the `Edgecase Ruby Koans`__
+
+.. __: https://github.com/edgecase/ruby_koans
